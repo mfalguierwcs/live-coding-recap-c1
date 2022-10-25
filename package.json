@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "jest": "^29.2.1"
+  },
+  "name": "recap-html-css",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test-algo-1": "jest array.test.js",
+    "test-algo-2": "jest operation.test.js",
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
